@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shivani Khare
 
-**Get in touch** 
+**Get in touch:** 
 
 [![button](https://lh3.googleusercontent.com/0xjE-2d4arkwcxkvLc7x613aHiAw8jDkXCzoz4WtnvyeSzXFsPWfmXE4jQw0Jo_3FZbT=s85)](www.linkedin.com/in/shivani-khare)  
 
