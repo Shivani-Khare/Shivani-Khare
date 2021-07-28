@@ -5,6 +5,8 @@ I'm Shivani Jitendra Khare
 I’m currently an undergrad student (EE) having a huge interest in Machine Learning. I’m looking to collaborate on open source projects. I work with Python programming language.
 I’m an avid improver, always open for feedbacks on my work.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shivani-Khare)
+
 ## **Get in touch:** 
 
 [![button](https://lh3.googleusercontent.com/0xjE-2d4arkwcxkvLc7x613aHiAw8jDkXCzoz4WtnvyeSzXFsPWfmXE4jQw0Jo_3FZbT=s85)](www.linkedin.com/in/shivani-khare) 
