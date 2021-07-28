@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Shivani Khare
+# Hi there :wave:
+
+I'm Shivani Jitendra Khare
 
 **Get in touch:** 
 
