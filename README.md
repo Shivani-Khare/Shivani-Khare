@@ -2,17 +2,12 @@
 
 I'm Shivani Jitendra Khare
 
-**Get in touch:** 
+I’m currently an undergrad student (EE) having a huge interest in Machine Learning. I’m looking to collaborate on open source projects. I work with Python programming language.
+I’m an avid improver, always open for feedbacks on my work.
 
-[![button](https://lh3.googleusercontent.com/0xjE-2d4arkwcxkvLc7x613aHiAw8jDkXCzoz4WtnvyeSzXFsPWfmXE4jQw0Jo_3FZbT=s85)](www.linkedin.com/in/shivani-khare)  
+## **Get in touch:** 
 
-🔭 I’m currently an undergrad student (EE) having a huge interest in Machine Learning.
-
-👯 I’m looking to collaborate on open source projects.
-
-💬 I work with Python programming language.
-
-🌱 I’m an avid improver, always open for feedbacks on my work.
+[![button](https://lh3.googleusercontent.com/0xjE-2d4arkwcxkvLc7x613aHiAw8jDkXCzoz4WtnvyeSzXFsPWfmXE4jQw0Jo_3FZbT=s85)](www.linkedin.com/in/shivani-khare) 
 
 
 
