@@ -1,6 +1,6 @@
 # **Hey there** :wave:
 
-This is Shivani Jitendra Khare.
+This is **Shivani Jitendra Khare**.
 
 I’m currently an undergrad student (EE) having a huge interest in Machine Learning. I’m looking to collaborate on open source projects. I work with Python programming language.
 I’m an avid improver, always open for feedbacks on my work.
