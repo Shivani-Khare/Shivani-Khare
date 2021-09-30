@@ -14,7 +14,7 @@ I’m an avid improver, always open for feedbacks on my work.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Khare&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-![Github Profile Views](https://komarev.com/ghpvc/?username=Shivani-Khare&color=00FF00)
+![Github Profile Views](https://komarev.com/ghpvc/?username=Shivani-Khare&color=0D76A8)
 
 ## **Get in touch:** 
 
