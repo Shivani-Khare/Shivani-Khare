@@ -1,4 +1,4 @@
-# **Hey floks** :wave:
+# **Hey folks** :wave:
 
 This is **Shivani Jitendra Khare**.
 
