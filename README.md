@@ -1,9 +1,9 @@
-# **Hey there** :wave:
+# **Hey floks** :wave:
 
 This is **Shivani Jitendra Khare**.
 
 I’m currently an undergrad student (EE) having a huge interest in Machine Learning. I’m looking to collaborate on open source projects. I work with Python programming language.
-I’m an avid improver, always open for feedbacks on my work.
+I’m an avid improver, always open for feedbacks on my work. Therefore, feel free to drop down suggestions and opinions on my work.
 
 
 <a href="https://github.com/Shivani-Khare">
