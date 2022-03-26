@@ -5,6 +5,8 @@ This is **Shivani Jitendra Khare**.
 I’m currently an undergrad student (EE) having a huge interest in Machine Learning. I’m looking to collaborate on open source projects. I work with Python programming language.
 I’m an avid improver, always open for feedbacks on my work. Therefore, feel free to drop down suggestions and opinions on my work.😄
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 <a href="https://github.com/Shivani-Khare">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Shivani-Khare&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Shivani's GitHub Stats" />
