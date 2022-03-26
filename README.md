@@ -21,8 +21,8 @@ I’m an avid improver, always open for feedbacks on my work. Therefore, feel fr
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shivani-khare/)
 
-[!Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]
-(https://dev.to/shivani_khare)
+[!Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)(https://dev.to/shivani_khare)]
+
 
 
 
